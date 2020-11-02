@@ -233,3 +233,12 @@ color: #5e7f7e;
 cursor: pointer;
 opacity: 0.8;
 }
+
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+}
+
+@-ms-viewport {
+    width: device-width ;
+}

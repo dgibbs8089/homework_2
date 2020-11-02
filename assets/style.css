@@ -1,5 +1,8 @@
 body {
-	background-image: url("/homework_2/assets/images/background.png");
+    background-image: url("/homework_2/assets/images/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 	font-family: Arial;
 	font-size: 18px;
 	color: #777;
@@ -132,7 +135,7 @@ footer {
 	margin-right: 0;
 }
 
-.baby {
+.David {
 	float: left;
 	margin-right: 30px;
 }

@@ -3,7 +3,7 @@ body {
     background-repeat: repeat;
     background-position: center;
     background-size: cover;
-	font-family: Arial;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 18px;
 	color: #777;
 	line-height: 28px;
@@ -40,7 +40,8 @@ h2 {
 	font-size: 22px;
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 20px;
-	margin-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 header {
@@ -110,7 +111,7 @@ footer {
 .module {
 	background-color: #fff;
 	padding: 30px;
-	border: 1px solid #ddd;
+    border: 1px solid #ddd;
 }
 
 #content {
@@ -121,7 +122,7 @@ footer {
 #social {
 	width: 270px;
 	float: right;
-	text-align: center;
+    text-align: center;
 }
 
 #social img {
